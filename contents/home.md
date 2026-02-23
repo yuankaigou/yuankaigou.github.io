@@ -5,9 +5,6 @@
 
  **About Me** 
 
-
- <img src="https://github.com/Framework-Based-Software/icebreaking-yuankaigou/blob/profile-upload/avatar.png" width="400">
-
   
 I'm a passionate algorithm enthusiast who enjoys solving challenging problems. I frequently practice competitive programming on Luogu, primarily using C++ to tackle algorithmic challenges efficiently.
 
